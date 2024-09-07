@@ -12,18 +12,18 @@ It is far from perfect right now, but will improve rapidly.
 ### They are using
 If you have developed or are developing projects based on the ContiNew series, we hope you can click the link below to leave your company/organization/project information, giving the maintenance team and other new friends who are watching a positive feedback. 🍻
 
-https://continew.top/admin/intro/who-use.html
-https://continew.top/starter/intro/who-use.html
+https://continew.top/about/who-use.html
 
 ### How to join
 If you have good ideas, or are willing to participate, starting with code reviews, even if it’s a simple indentation error, can help the ContiNew series project polish more “sweetly.”
 
-https://continew.top/admin/other/contributing.html
+https://continew.top/admin/other/contributing.html  
+https://continew.top/about/team.html
 
 ### Donate
 If you feel that our open-source software has been helpful to you, please click the link below to buy us a cup of coffee.
 
-https://continew.top/other/sponsor.html
+https://continew.top/sponsor.html
 
 ### Contact
 Website: https://continew.top  
